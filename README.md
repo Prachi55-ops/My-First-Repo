@@ -1,3 +1,4 @@
 # My-First-Repo
 My first GitHub Repository to learn the basics of Git and GitHub.
-Author-Prachi Patkar
+<br>
+Author-Prachi Patkar.
